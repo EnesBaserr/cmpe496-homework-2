@@ -4,7 +4,7 @@
 ## Overview
 
 This application allows users to enter order details, generate invoices, and navigate between different screens. It uses JavaFX for UI components and supports basic order management functionality.
-
+For preview of the application, please refer to the [Images folder](images) file.
 ## Main Classes and Interfaces
 
 ### `Main.java`
