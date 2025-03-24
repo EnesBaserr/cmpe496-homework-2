@@ -4,14 +4,13 @@
 * For preview of the application, please refer to the [**Images folder**](images) file.
 * For API documentation, please refer to the [**API_DOC.MD**](API_DOC.MD) file.
 * For sample scenarios, please refer to the [**SCENARIOS.MD**](Scenarios.pdf) file.
-* 
 ## Prerequisites
 
 - Java 11 or later
 - Apache Maven
 - JavaFX SDK (if not included in your JDK)
-
-Ensure that you have the appropriate JavaFX SDK for your platform and have it set up in your environment.
+- There is no need to install JavaFX SDK if you are using JDK 11 or later. JavaFX is included in JDK 11 and later versions.
+- JavaFx application run through Maven plugin. The plugin is already included in the `pom.xml` file.
  ### Using Maven
 To run the application with Maven, use the following command:
 
