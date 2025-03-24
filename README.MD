@@ -1,7 +1,8 @@
 # JavaFX Order Management System
 
-This project is a JavaFX-based application that manages order entry, invoice creation, and screen navigation for a catalog-based system. It includes multiple screens and handles user interactions such as form filling, order cancellation, and invoice generation.
-
+* This project is a JavaFX-based application that manages order entry, invoice creation, and screen navigation for a catalog-based system. It includes multiple screens and handles user interactions such as form filling, order cancellation, and invoice generation.
+* For preview of the application, please refer to the [**Images folder**](images) file.
+* For API documentation, please refer to the [**API_DOC.MD**](API_DOC.MD) file.
 ## Prerequisites
 
 - Java 11 or later
