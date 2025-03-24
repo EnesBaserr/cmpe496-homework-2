@@ -3,6 +3,8 @@
 * This project is a JavaFX-based application that manages order entry, invoice creation, and screen navigation for a catalog-based system. It includes multiple screens and handles user interactions such as form filling, order cancellation, and invoice generation.
 * For preview of the application, please refer to the [**Images folder**](images) file.
 * For API documentation, please refer to the [**API_DOC.MD**](API_DOC.MD) file.
+* For sample scenarios, please refer to the [**SCENARIOS.MD**](Scenarios.pdf) file.
+* 
 ## Prerequisites
 
 - Java 11 or later
@@ -14,7 +16,7 @@ Ensure that you have the appropriate JavaFX SDK for your platform and have it se
 To run the application with Maven, use the following command:
 
 ```bash
-mvn javafx:run
+mvn clean javafx::run
 ```
 
 
